@@ -71,7 +71,7 @@ pip install mediapipe
 
 ```
 
-run this code in your notebook
+run this code in [your notebook](./convert/convert_phi.ipynb)
 
 
 
