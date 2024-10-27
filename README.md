@@ -13,6 +13,8 @@ Googld AI Edge Torch is a python library that supports converting PyTorch models
 
 ### **🔥 Convert Microsoft Phi-3.5 to tflite support**
 
+0. This sample is for Android 14+
+
 1. Install Python 3.10.12
 
 ***Suggestion:*** using conda to install your Python env
