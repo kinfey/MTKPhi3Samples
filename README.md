@@ -1,6 +1,6 @@
 # **MTK Microsoft-Phi3.5 Android Samples**
 
-This is samples for MTK using Microsoft Phi-3.5 tflite models.
+This is an Android sample for MTK using Microsoft Phi-3.5 tflite models.
 
 ## **📚 Knowledge**
 
